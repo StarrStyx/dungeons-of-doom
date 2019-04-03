@@ -20,11 +20,11 @@ HOW TO PLAY THE GAME
 
 LEGEND
 
-#: Walls
-P: The Player's position
-E: Exit
-G: Gold
-.: Blank space
+- #: Walls
+- P: The Player's position
+- E: Exit
+- G: Gold
+- .: Blank space
 
 ==========================================================================================================
 
